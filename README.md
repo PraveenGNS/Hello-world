@@ -1,2 +1,4 @@
 # Hello-world
-New Repository
+Hi everyone,
+
+i am here to do web-development.
